@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\duynk\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\duynk\\.nuget\\packages"
+    ]
+  }
+}

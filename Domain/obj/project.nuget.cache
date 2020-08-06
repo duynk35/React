@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "k5vDtT1QpezZHYq/1w/anS9fM+CwTByRR6tLCwV8WApSPKAd7wXKlAEkMAu+MxbCbclKNc33xEikEI7bCvcIEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\duynk\\Reactivities\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\duynk\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\duynk\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
