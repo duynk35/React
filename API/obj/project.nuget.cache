@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pCoYcVep+ADfX6iWOkTLzqjsmNrZfEI8xA4j49L/K5Vq8iEu6q+Ksx4rwGsTPqDYSBxVwi1pUXssdb+ooTmdyg==",
+  "dgSpecHash": "97pk/JX3a5iVV0SC9IuDnBi7cwc8Clrdxnd/Fk3phxC/vGMrqoMoUFdiLu3phUWk6IRxHDWQJs7ywuyP7jS3yQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\duynk\\Reactivities\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\duynk\\Reactivities\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\duynk\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\duynk\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
