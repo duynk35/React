@@ -58,3 +58,5 @@ C:\Users\duynk\Reactivities\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.dev.js
 C:\Users\duynk\Reactivities\API\bin\Debug\netcoreapp3.1\API.pdb
 C:\Users\duynk\Reactivities\API\obj\Debug\netcoreapp3.1\API.genruntimeconfig.cache
 C:\Users\duynk\Reactivities\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\duynk\Reactivities\API\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\duynk\Reactivities\API\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll

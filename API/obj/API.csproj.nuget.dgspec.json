@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\duynk\\Reactivities\\api\\API.csproj": {}
+    "C:\\Users\\duynk\\Reactivities\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\duynk\\Reactivities\\api\\API.csproj": {
+    "C:\\Users\\duynk\\Reactivities\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\duynk\\Reactivities\\api\\API.csproj",
+        "projectUniqueName": "C:\\Users\\duynk\\Reactivities\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\duynk\\Reactivities\\api\\API.csproj",
+        "projectPath": "C:\\Users\\duynk\\Reactivities\\API\\API.csproj",
         "packagesPath": "C:\\Users\\duynk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\duynk\\Reactivities\\api\\obj\\",
+        "outputPath": "C:\\Users\\duynk\\Reactivities\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\duynk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -110,6 +110,10 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
