@@ -12,7 +12,7 @@ import { ActivityDashboard } from "../../features/activity/dashboard/ActivityDas
 import agent from "../api/agent";
 import { LoadingComponent } from "./LoadingComponent";
 import ActivityStore from "../stores/activityStore";
-import { observer } from "mobx-react";
+import { observer } from "mobx-react-lite";
 
 const App = () => {
   const activityStore = useContext(ActivityStore);

@@ -3,7 +3,7 @@ import { Segment, Form, Button } from "semantic-ui-react";
 import { IActivity } from "../../../app/models/activity";
 import { v4 as uuidv4 } from "uuid";
 import ActivityStore from "../../../app/stores/activityStore";
-import { observer } from "mobx-react";
+import { observer } from "mobx-react-lite";
 
 interface IProps {
   setEditmode: (editMode: boolean) => void;

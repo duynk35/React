@@ -4,7 +4,7 @@ import { IActivity } from "../../../app/models/activity";
 import { ActivityList } from "./ActivityList";
 import { ActivityDetail } from "../details/ActivityDetail";
 import { ActivityForm } from "../form/ActivityForm";
-import { observer, Observer } from "mobx-react";
+import { observer } from "mobx-react-lite";
 import ActivityStore from "../../../app/stores/activityStore";
 interface IProps {
   setEditmode: (editMode: boolean) => void;

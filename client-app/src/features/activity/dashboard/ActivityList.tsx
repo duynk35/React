@@ -1,6 +1,6 @@
 import React, { SyntheticEvent, useContext } from "react";
 import { Item, Button, Segment, Label } from "semantic-ui-react";
-import { observer } from "mobx-react";
+import { observer } from "mobx-react-lite";
 import ActivityStore from "../../../app/stores/activityStore";
 
 interface IProps {
