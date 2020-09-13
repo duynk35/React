@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "i89kI7XaPWHdEfEEJYLsDd3nLjB6bpjff+y/PGBIIU0zSTtsWS+OAntmZ3f78/sxmJQXrUrRuFoLIVCx6HZsfA==",
+  "dgSpecHash": "l8lTZsJL8NOJYQ+NJ52A4UVe3QWa7iNGDj2e0zS792XmQMEo4ZzzeWKuDMaG6FWopL4dhXCyJWiA7iWjUYyJvQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\duynk\\Reactivities\\api\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\duynk\\.nuget\\packages\\fluentvalidation\\8.6.3\\fluentvalidation.8.6.3.nupkg.sha512",
+    "C:\\Users\\duynk\\.nuget\\packages\\fluentvalidation.aspnetcore\\8.6.3\\fluentvalidation.aspnetcore.8.6.3.nupkg.sha512",
+    "C:\\Users\\duynk\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\8.6.3\\fluentvalidation.dependencyinjectionextensions.8.6.3.nupkg.sha512",
     "C:\\Users\\duynk\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512",
     "C:\\Users\\duynk\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\8.1.0\\mediatr.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
     "C:\\Users\\duynk\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
